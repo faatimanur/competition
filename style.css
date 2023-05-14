@@ -1,1 +1,18 @@
-/*# sourceMappingURL=style.css.map */
+@font-face {
+  font-family: "Lato";
+  src: url(./fonts/Lato-Bold.ttf); /*URL to font*/
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1420px;
+  margin: 0 auto;
+  padding: 0 20px;
+}/*# sourceMappingURL=style.css.map */
